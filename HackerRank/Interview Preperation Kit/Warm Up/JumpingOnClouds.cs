@@ -25,6 +25,7 @@ namespace HackerRank_Interview_Preperation.Warm_Up
          *jumpingOnClouds has the following parameter(s):
          *c: an array of binary integers */
 
+        
         //Since it is always possible to win the game we just loop through the array and check if we can move forward 2 spaces,
         //checking if 2 spaces forward is within the array bounds and is 0.
         //if yes increment i by 1 (i will always increment by 1 in loop moving us forward 2 places) and increment jumps by 1;
